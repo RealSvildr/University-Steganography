@@ -1,1 +1,1 @@
-# University-Steganography
+# Steganography
