@@ -1,0 +1,36 @@
+C:\Users\Felipe\Downloads\New folder\Esteganografia\Esteganografia\bin\Debug\Esteganografia.exe.config
+C:\Users\Felipe\Downloads\New folder\Esteganografia\Esteganografia\bin\Debug\Esteganografia.exe
+C:\Users\Felipe\Downloads\New folder\Esteganografia\Esteganografia\bin\Debug\Esteganografia.pdb
+C:\Users\Felipe\Downloads\New folder\Esteganografia\Esteganografia\obj\Debug\Esteganografia.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Downloads\New folder\Esteganografia\Esteganografia\obj\Debug\Esteganografia.Form1.resources
+C:\Users\Felipe\Downloads\New folder\Esteganografia\Esteganografia\obj\Debug\Esteganografia.Properties.Resources.resources
+C:\Users\Felipe\Downloads\New folder\Esteganografia\Esteganografia\obj\Debug\Esteganografia.csproj.GenerateResource.Cache
+C:\Users\Felipe\Downloads\New folder\Esteganografia\Esteganografia\obj\Debug\Esteganografia.exe
+C:\Users\Felipe\Downloads\New folder\Esteganografia\Esteganografia\obj\Debug\Esteganografia.pdb
+C:\Users\Felipe\Desktop\Segurança\Esteganografia\Esteganografia\bin\Debug\Esteganografia.exe.config
+C:\Users\Felipe\Desktop\Segurança\Esteganografia\Esteganografia\obj\Debug\Esteganografia.exe
+C:\Users\Felipe\Desktop\Segurança\Esteganografia\Esteganografia\obj\Debug\Esteganografia.pdb
+C:\Users\Felipe\Desktop\Segurança\Esteganografia\Esteganografia\bin\Debug\Esteganografia.exe
+C:\Users\Felipe\Desktop\Segurança\Esteganografia\Esteganografia\bin\Debug\Esteganografia.pdb
+C:\Users\Felipe\Desktop\Segurança\Esteganografia\Esteganografia\obj\Debug\Esteganografia.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\Segurança\Esteganografia\Esteganografia\obj\Debug\Esteganografia.Form1.resources
+C:\Users\Felipe\Desktop\Segurança\Esteganografia\Esteganografia\obj\Debug\Esteganografia.Properties.Resources.resources
+C:\Users\Felipe\Desktop\Segurança\Esteganografia\Esteganografia\obj\Debug\Esteganografia.csproj.GenerateResource.Cache
+C:\Users\Felipe\Desktop\Projetos Simples\Segurança\Esteganografia\Esteganografia\bin\Debug\Esteganografia.exe.config
+C:\Users\Felipe\Desktop\Projetos Simples\Segurança\Esteganografia\Esteganografia\obj\Debug\Esteganografia.exe
+C:\Users\Felipe\Desktop\Projetos Simples\Segurança\Esteganografia\Esteganografia\obj\Debug\Esteganografia.pdb
+C:\Users\Felipe\Desktop\Projetos Simples\Segurança\Esteganografia\Esteganografia\bin\Debug\Esteganografia.exe
+C:\Users\Felipe\Desktop\Projetos Simples\Segurança\Esteganografia\Esteganografia\bin\Debug\Esteganografia.pdb
+C:\Users\Felipe\Desktop\Projetos Simples\Segurança\Esteganografia\Esteganografia\obj\Debug\Esteganografia.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\Projetos Simples\Segurança\Esteganografia\Esteganografia\obj\Debug\Esteganografia.Form1.resources
+C:\Users\Felipe\Desktop\Projetos Simples\Segurança\Esteganografia\Esteganografia\obj\Debug\Esteganografia.Properties.Resources.resources
+C:\Users\Felipe\Desktop\Projetos Simples\Segurança\Esteganografia\Esteganografia\obj\Debug\Esteganografia.csproj.GenerateResource.Cache
+C:\Users\Felipe.Johnny\Dropbox\Desenvolvimento\C#\Esteganografia\Esteganografia\bin\Debug\Esteganografia.exe.config
+C:\Users\Felipe.Johnny\Dropbox\Desenvolvimento\C#\Esteganografia\Esteganografia\obj\Debug\Esteganografia.exe
+C:\Users\Felipe.Johnny\Dropbox\Desenvolvimento\C#\Esteganografia\Esteganografia\obj\Debug\Esteganografia.pdb
+C:\Users\Felipe.Johnny\Dropbox\Desenvolvimento\C#\Esteganografia\Esteganografia\obj\Debug\Esteganografia.csprojResolveAssemblyReference.cache
+C:\Users\Felipe.Johnny\Dropbox\Desenvolvimento\C#\Esteganografia\Esteganografia\obj\Debug\Esteganografia.Properties.Resources.resources
+C:\Users\Felipe.Johnny\Dropbox\Desenvolvimento\C#\Esteganografia\Esteganografia\obj\Debug\Esteganografia.csproj.GenerateResource.Cache
+C:\Users\Felipe.Johnny\Dropbox\Desenvolvimento\C#\Esteganografia\Esteganografia\bin\Debug\Esteganografia.exe
+C:\Users\Felipe.Johnny\Dropbox\Desenvolvimento\C#\Esteganografia\Esteganografia\bin\Debug\Esteganografia.pdb
+C:\Users\Felipe.Johnny\Dropbox\Desenvolvimento\C#\Esteganografia\Esteganografia\obj\Debug\Steganography.Steganography.resources

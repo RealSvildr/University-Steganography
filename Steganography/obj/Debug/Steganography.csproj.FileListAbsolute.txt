@@ -1,0 +1,3 @@
+C:\Users\Felipe.Johnny\Dropbox\Desenvolvimento\C#\Esteganografia\Esteganografia\bin\Debug\Steganography.exe.config
+C:\Users\Felipe.Johnny\Dropbox\Desenvolvimento\Esteganografia\Esteganografia\bin\Debug\Steganography.exe.config
+C:\Users\Felipe.Johnny\Dropbox\Desenvolvimento\Steganography\bin\Debug\Steganography.exe.config
